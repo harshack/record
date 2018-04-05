@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Record.Data\Record.Data.csproj" />
+    <ProjectReference Include="..\Record.DTO\Record.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

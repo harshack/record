@@ -1,0 +1,17 @@
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.CoreConsoleApp.deps.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.CoreConsoleApp.runtimeconfig.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.CoreConsoleApp.runtimeconfig.dev.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.CoreConsoleApp.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.CoreConsoleApp.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.Data.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.DTO.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.Service.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.DTO.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.Service.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\bin\Debug\netcoreapp1.0\Record.Data.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.AssemblyInfo.cs
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.CoreConsoleApp\obj\Debug\netcoreapp1.0\Record.CoreConsoleApp.pdb

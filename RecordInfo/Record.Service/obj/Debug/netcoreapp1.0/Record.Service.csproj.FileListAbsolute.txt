@@ -1,0 +1,13 @@
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.Service.deps.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.Service.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.Service.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.Data.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.DTO.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.Data.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\bin\Debug\netcoreapp1.0\Record.DTO.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.csprojResolveAssemblyReference.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.csproj.CoreCompileInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.AssemblyInfoInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.AssemblyInfo.cs
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.Service\obj\Debug\netcoreapp1.0\Record.Service.pdb

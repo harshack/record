@@ -1,0 +1,9 @@
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\bin\Debug\netcoreapp1.0\Record.DTO.deps.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\bin\Debug\netcoreapp1.0\Record.DTO.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\bin\Debug\netcoreapp1.0\Record.DTO.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.csproj.CoreCompileInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.AssemblyInfoInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.AssemblyInfo.cs
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\Record.DTO\obj\Debug\netcoreapp1.0\Record.DTO.csprojResolveAssemblyReference.cache

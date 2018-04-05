@@ -1,0 +1,17 @@
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\RecordInfo.API.deps.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\RecordInfo.API.runtimeconfig.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\RecordInfo.API.runtimeconfig.dev.json
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\RecordInfo.API.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\RecordInfo.API.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.Data.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.DTO.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.Service.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.Data.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.DTO.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\bin\Debug\netcoreapp1.0\Record.Service.pdb
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\Record.API.csprojResolveAssemblyReference.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\Record.API.csproj.CoreCompileInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\Record.API.AssemblyInfoInputs.cache
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\Record.API.AssemblyInfo.cs
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\RecordInfo.API.dll
+C:\Users\harsha.ck\Desktop\rate-final\RecordInfo\src\RecordInfo.API\obj\Debug\netcoreapp1.0\RecordInfo.API.pdb

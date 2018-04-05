@@ -1,0 +1,73 @@
+2018-04-05 13:26:46.4044|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 13:26:46.8386|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 474.378ms 404 text/plain
+2018-04-05 13:26:46.8947|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 13:26:46.8947|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 5.7679ms 404 text/plain
+2018-04-05 13:28:41.1723|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:5000/api/records/createstructuredrecords application/json 107
+2018-04-05 13:28:41.7219|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) with arguments (RecordInfo.Data.Models.RecordDto) - ModelState is Valid
+2018-04-05 13:39:15.0905|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 13:39:15.4871|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 437.3998ms 404 text/plain
+2018-04-05 13:39:15.5212|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 13:39:15.5212|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 6.4181ms 404 text/plain
+2018-04-05 13:39:31.3400|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:5000/api/records/createstructuredrecords application/json 107
+2018-04-05 13:39:45.0008|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) with arguments (RecordInfo.Data.Models.RecordDto) - ModelState is Valid
+2018-04-05 13:40:42.3898|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 13:40:42.4690|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) in 71041.1832ms
+2018-04-05 13:40:42.4690|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 71135.1617ms 200 application/json; charset=utf-8
+2018-04-05 15:13:07.5439|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 15:13:07.9320|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 424.6204ms 404 text/plain
+2018-04-05 15:13:07.9731|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 15:13:07.9731|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 7.5626ms 404 text/plain
+2018-04-05 15:14:35.6377|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records  
+2018-04-05 15:14:35.6563|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 6.8124ms 404 text/plain
+2018-04-05 15:14:40.4920|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/name  
+2018-04-05 15:14:40.6664|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByName (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:14:40.7156|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:14:40.9382|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByName (RecordInfo.API) in 362.0963ms
+2018-04-05 15:14:40.9382|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 453.2825ms 200 application/json; charset=utf-8
+2018-04-05 15:20:25.1501|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:5000/api/records/createstructuredrecords application/json 107
+2018-04-05 15:20:25.3656|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) with arguments (RecordInfo.DTO.RecordDto) - ModelState is Valid
+2018-04-05 15:20:59.0736|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:20:59.0897|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) in 33922.3972ms
+2018-04-05 15:20:59.0977|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 33948.1437ms 200 application/json; charset=utf-8
+2018-04-05 15:23:18.8056|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 POST http://localhost:5000/api/records/createflatrecords application/json 44
+2018-04-05 15:23:18.8246|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) with arguments (Fiddler,LastSecond,04/05/2018,Female,Brown) - ModelState is Valid
+2018-04-05 15:23:50.9986|INFO|Microsoft.AspNetCore.Mvc.StatusCodeResult|Executing HttpStatusCodeResult, setting HTTP status code 200
+2018-04-05 15:23:51.0277|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.CreateRecords (RecordInfo.API) in 32179.2739ms
+2018-04-05 15:23:51.0307|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 32225.649ms 200 
+2018-04-05 15:33:23.7389|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 15:33:24.1189|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 425.6084ms 404 text/plain
+2018-04-05 15:33:24.1570|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 15:33:24.1570|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 16.0316ms 404 text/plain
+2018-04-05 15:33:43.1815|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/gender  
+2018-04-05 15:33:43.3634|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByGender (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:33:43.4107|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:33:43.6392|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByGender (RecordInfo.API) in 359.2823ms
+2018-04-05 15:33:43.6392|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 475.6821ms 200 application/json; charset=utf-8
+2018-04-05 15:35:13.2476|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 15:35:13.6346|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 425.8249ms 404 text/plain
+2018-04-05 15:35:13.6928|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 15:35:13.7048|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 28.9789ms 404 text/plain
+2018-04-05 15:35:17.0392|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/gender  
+2018-04-05 15:35:17.2126|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByGender (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:35:17.2643|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:35:17.4999|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByGender (RecordInfo.API) in 382.6687ms
+2018-04-05 15:35:17.4999|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 468.2759ms 200 application/json; charset=utf-8
+2018-04-05 15:37:05.0830|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/birthdate  
+2018-04-05 15:37:05.1302|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByBirthDate (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:37:05.1302|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:37:05.1452|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByBirthDate (RecordInfo.API) in 41.5229ms
+2018-04-05 15:37:05.1452|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 68.702ms 200 application/json; charset=utf-8
+2018-04-05 15:40:22.0243|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/  
+2018-04-05 15:40:22.3943|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 406.8015ms 404 text/plain
+2018-04-05 15:40:22.4334|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico  
+2018-04-05 15:40:22.4394|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 8.2947ms 404 text/plain
+2018-04-05 15:40:25.3230|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/birthdate  
+2018-04-05 15:40:25.4955|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByBirthDate (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:40:25.5507|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:40:25.7943|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByBirthDate (RecordInfo.API) in 391.0362ms
+2018-04-05 15:40:25.7993|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 478.8055ms 200 application/json; charset=utf-8
+2018-04-05 15:41:14.7604|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/api/records/name  
+2018-04-05 15:41:14.8126|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method RecordInfo.API.Controllers.RecordController.GeRecordSortedByName (RecordInfo.API) with arguments () - ModelState is Valid
+2018-04-05 15:41:14.8126|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2018-04-05 15:41:14.8296|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action RecordInfo.API.Controllers.RecordController.GeRecordSortedByName (RecordInfo.API) in 63.1435ms
+2018-04-05 15:41:14.8296|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 76.4484ms 200 application/json; charset=utf-8
